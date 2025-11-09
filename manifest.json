@@ -1,0 +1,23 @@
+{
+    "id": "/mila-at-60/",
+    "short_name": "Mila at 60",
+    "name": "Mila's 60th Birthday Celebration",
+    "description": "Mila's 60th Birthday Celebration Invitation App",
+    "icons": [
+      {
+        "src": "images/Mila192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "images/Mila512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#E4AEE2",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#E4A6CB"
+}
